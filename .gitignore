@@ -1,0 +1,15 @@
+# Secrets - never upload these
+.env
+.spotify_token_cache
+.cache*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
